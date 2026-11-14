@@ -14,6 +14,7 @@ Open-source physical reference datasets, stoichiometric chemical-radiological hy
 * **Persian Gulf Radiological & Desalination Matrix (Arabic / العربية):** [https://atomicoversight.org/ar/plume](https://atomicoversight.org/ar/plume)
 * **UF6 Centrifuge Cascade Hydrolysis Technical Dossier:** [https://shieldxdefense.com/intel/npt-exit-uf6-cascade](https://shieldxdefense.com/intel/npt-exit-uf6-cascade)
 * **UK & European Private Continuity Desk (HO1+KR1 & Pre-Cleared RRTK Custody):** [https://shieldx.uk/](https://shieldx.uk/)
+* **Independent PPE Metrology Benchmark & Dosimetry Calculator:** [https://wakeupnuclear.org/benchmarks/civilian-radiation-suits-2026](https://wakeupnuclear.org/benchmarks/civilian-radiation-suits-2026)
 
 ---
 
