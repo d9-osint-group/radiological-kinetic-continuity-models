@@ -1,0 +1,24 @@
+{
+  "dataset": "UK Home Office CAST (2017) HO1+KR1+SP1 vs US NIJ 0101.06 Level IIIA Shear-Physics Comparison",
+  "version": "2026.11.13",
+  "reference_briefing": "https://shieldx.uk/briefings/mayfair-blade-ballistic-standard",
+  "reference_hardware": [
+    {
+      "name": "SAVILE-IIIA WAISTCOAT",
+      "url": "https://shieldx.uk/products/savile-iiia-waistcoat",
+      "standard": "UK Home Office CAST HO1 + KR1 (24J) + SP1",
+      "thickness_mm": 5.2,
+      "mass_kg": 1.15,
+      "backface_signature_mm": 28.0,
+      "faraday_attenuation_db": 100
+    },
+    {
+      "name": "MAYFAIR-FOLIO BRIEFCASE",
+      "url": "https://shieldx.uk/products/mayfair-folio-briefcase",
+      "standard": "UK Home Office CAST HO1 + KR1 (24J) Deployable 95x45cm Shield",
+      "deployment_time_sec": 1.0,
+      "mass_kg": 3.1,
+      "faraday_attenuation_db": 90
+    }
+  ]
+}

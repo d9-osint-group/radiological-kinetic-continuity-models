@@ -1,0 +1,84 @@
+{
+  "dataset": "Persian Gulf & European 72-Hour Radiological Dispersion & Infrastructure Lockout Matrix",
+  "version": "2026.11.13",
+  "interactive_simulator_en": "https://atomicoversight.org/plume",
+  "interactive_simulator_ar": "https://atomicoversight.org/ar/plume",
+  "technical_dossiers": [
+    "https://shieldxdefense.com/intel/npt-exit-uf6-cascade",
+    "https://shieldxdefense.com/intel/the-iodine-placebo",
+    "https://shieldx.uk/briefings/uk-civil-defense-vacuum",
+    "https://shieldx.uk/briefings/farnborough-4-hour-window"
+  ],
+  "iaea_nov_2026_baseline": {
+    "unverified_60_percent_heu_mass_kg": 440.9,
+    "unverified_60_percent_heu_mass_lbs": 972.0,
+    "theoretical_weapons_grade_equivalent_warheads": 10,
+    "ki_tablet_efficacy_against_uf6_and_cs137_percent": 0.0
+  },
+  "sectors": [
+    {
+      "id": "kuwait",
+      "city": "Kuwait City",
+      "distance_bushehr_km": 285,
+      "arrival_hours": 4.5,
+      "swro_dependency_pct": 92,
+      "fbo": "OKBK"
+    },
+    {
+      "id": "manama",
+      "city": "Manama",
+      "distance_bushehr_km": 295,
+      "arrival_hours": 5.0,
+      "swro_dependency_pct": 94,
+      "fbo": "OBBI"
+    },
+    {
+      "id": "doha",
+      "city": "Doha",
+      "distance_bushehr_km": 390,
+      "arrival_hours": 7.5,
+      "swro_dependency_pct": 99,
+      "fbo": "OTHH"
+    },
+    {
+      "id": "abudhabi",
+      "city": "Abu Dhabi",
+      "distance_bushehr_km": 540,
+      "arrival_hours": 11.0,
+      "swro_dependency_pct": 96,
+      "fbo": "OMAD"
+    },
+    {
+      "id": "dubai",
+      "city": "Dubai",
+      "distance_bushehr_km": 560,
+      "arrival_hours": 11.5,
+      "swro_dependency_pct": 98,
+      "fbo": "OMDW"
+    },
+    {
+      "id": "riyadh",
+      "city": "Riyadh",
+      "distance_bushehr_km": 630,
+      "arrival_hours": 14.0,
+      "swro_dependency_pct": 75,
+      "fbo": "OERK"
+    },
+    {
+      "id": "london",
+      "city": "London (Mayfair)",
+      "distance_raf_fairford_km": 115,
+      "arrival_hours": 1.5,
+      "public_fallout_shelter_coverage_pct": 0.0,
+      "fbo": "EGLF / EGKB"
+    },
+    {
+      "id": "zurich",
+      "city": "Zurich / Geneva",
+      "distance_znpp_km": 1850,
+      "arrival_hours": 32.0,
+      "public_fallout_shelter_coverage_pct": 100.0,
+      "fbo": "LSZH"
+    }
+  ]
+}
